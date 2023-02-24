@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Index</title>
+    </head>
+
+    <body>
+        <center>
+            <h1>
+            Way Better
+            </h1>
+        </center>
+    </body>
+        
+<center>
+    <table style="background-color:#8eafd0" border = "2" width = "1000">
+        <TR>
+            <td> CURSOS </td>
+            <td> GRUPOS </td>
+            <td> SESION </td>
+            <td> AJUSTES </td>
+        </TR>
+    </table>
+
+</center>
+  
+
+    <p><strong>Que desea visualizar:</strong></p> <ol> <li>Codigo JAVA</li> <li>Aprender Codigo</li> <li>Subscriptions</li> <li>Sobre Nosotros</li> <li>Mis codigos</li> <li>Nuevo Proyecto</li> </ol>
+    <ul>
+        <li>Tareas</li>
+            <ul>
+                <li>Realizar una pagina web</li>
+            </ul>
+        </li>
+    </ul>
+    
+    <form action=""http:/www.google.com/search" method="get">
+        <label for = "q"> Buscar:</label>
+        <input type="text" name="name" id="q" required>
+
+        <button type="button">Click Me!</button>
+        <a href="https://experiencia21.tec.mx/courses/356648/assignments/11746685?return_to=https%3A%2F%2Fexperiencia21.tec.mx%2Fcalendar%23view_name%3Dmonth%26view_start%3D2023-02-21">BANDEJA DE CANVAS</a>
+        <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/rbuYtrNUxg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
